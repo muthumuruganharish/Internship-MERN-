@@ -29,7 +29,7 @@ The MERN stack allows me to build full-fledged applications using just **JavaScr
 
 | Area          | Tech           |
 |---------------|----------------|
-| Frontend      | React.js, HTML, CSS |
+| Frontend      | React.js, HTML,Java Script, CSS |
 | Backend       | Node.js, Express.js |
 | Database      | MongoDB        |
 | Tools         | Git, GitHub, VS Code |
